@@ -1,5 +1,4 @@
-# QSight-Script2Flow
-Qlik Sense Data Load Visualization Extension
+# QSight-Script2Flow - Qlik Sense Data Load Visualization Extension
 
 ![QSight Script2Flow](https://raw.githubusercontent.com/mydgd/QSight-Script2Flow/master/QSight%20Scrit2Flow.png)
 
