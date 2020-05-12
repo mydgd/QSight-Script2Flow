@@ -7,7 +7,7 @@ It is very easy to use, just drag and drop extension into your Qlik Sense applic
 
 1. [Download the Extension](https://github.com/mydgd/QSight-Script2Flow/raw/master/QSightScript2Flow.zip)
 2. Install on Qlik Sense
-3. Drag and Drop Extension to any Qlik Sense Application.
+3. Drag and Drop Extension into any Qlik Sense Application.
 
 That is all! It will automatically parse the script and create a flow chart.
 
