@@ -1,0 +1,15 @@
+{
+    "name": "QSight Script2Flow",
+    "description": "QSight Script2Flow Script Visualizer",
+    "type": "visualization",
+    "version": "0.1.0",
+    "icon": "scatter-chart",
+    "author": "Mustafa Aydogdu",
+    "homepage": "https://github.com/mydgd/QSight-Script2Flow",
+    "keywords": "qlik-sense, visualization, script",
+    "license": "",
+    "repository": "",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}

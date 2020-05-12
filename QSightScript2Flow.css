@@ -1,0 +1,94 @@
+/* CSS */
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow-y:auto;
+  background-color: #f1f1f1;
+}
+
+.blockcontent {
+  padding: 0 18px;
+  margin-right: 5px;
+  display: flex;
+  overflow:auto;
+  background-color: white;
+}
+
+.mynetwork {
+  width: 100%;
+  height: 100%;
+}/* CSS */
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  left: 105%;
+}
+
+
+.w3-codespan
+{font-family:Consolas,"courier new";font-size:10px;
+font-weight: bold;
+color:#6A8FE0;
+padding-left:0px;
+padding-right:4px;
+font-size:100%}
+
+
+
+#overlay {
+    position: relative;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+   background: rgba(0,0,0,0.4);
+   display: none;
+}
+
+#popup {
+   width: 70%;
+   height: 50%;
+   overflow-y: scroll;
+
+   position: absolute;
+   background: #fff;
+   border-radius: 10px 10px 10px 10px;
+    padding: 20px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
